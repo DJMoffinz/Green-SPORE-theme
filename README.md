@@ -1,5 +1,5 @@
 # Green SPORE theme
-This is a custom theme for Windows that adds a custom cursor group and a sick wallpaper. It also changes the Windows colours and enables dark mode. 
+This is a custom theme for Windows that adds a new cursor group and a sick wallpaper. It also changes the Windows colours and enables dark mode. 
 This is my forst foray into Windows theme development, and I will hopefully improve as I continue working on this.
 
 ## "Compiling" for yourself
