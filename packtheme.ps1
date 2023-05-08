@@ -3,8 +3,7 @@ $rootDirectory = Join-Path -Path $workingDir -ChildPath 'Theme\'
 
 $outputFile = "pack.ddf"
 
-#$themeName = (Get-Content Theme\Theme.ini | Select -Skip 1 | Select -Last 1).Substring(12)
-$themeName = 'balls'
+$themeName = (Get-Content Theme\Theme.ini | Select -Skip 1 | Select -Last 1).Substring(12)
 
 echo '.OPTION EXPLICIT' > $outputFile
 echo ".Set CabinetNameTemplate=`"$themeName.themepack`"" >> $outputFile
